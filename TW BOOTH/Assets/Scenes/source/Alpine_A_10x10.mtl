@@ -1,0 +1,186 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 19.01.2018 12:14:58
+
+newmtl Material__0
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\..\..\..\Sketchfab\Wood-grain-background-vector-material-(3).jpg
+	map_Kd ..\..\..\..\Sketchfab\Wood-grain-background-vector-material-(3).jpg
+
+newmtl Material__25___blockout_white
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Arch_leg___inside
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka T:\3D FILES\Products\Alpine\A\low-res for skin\Alpine_A_A1_Front_Panel_AND_Back_Arch_Panel.jpg
+	map_Kd T:\3D FILES\Products\Alpine\A\low-res for skin\Alpine_A_A1_Front_Panel_AND_Back_Arch_Panel.jpg
+
+newmtl Header___back_new_heels
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka T:\3D FILES\Products\Alpine\A\low-res for skin\Alpine_A_A2_Top_Back_Panel.jpg
+	map_Kd T:\3D FILES\Products\Alpine\A\low-res for skin\Alpine_A_A2_Top_Back_Panel.jpg
+
+newmtl Header___front_new_styles
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka T:\3D FILES\Products\Alpine\A\low-res for skin\Alpine_A_A2_Top_Front_Panel.jpg
+	map_Kd T:\3D FILES\Products\Alpine\A\low-res for skin\Alpine_A_A2_Top_Front_Panel.jpg
+
+newmtl Arch___under
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka T:\3D FILES\Products\Alpine\A\low-res for skin\Alpine_A_A4_35.5W-x-94.5H.jpg
+	map_Kd T:\3D FILES\Products\Alpine\A\low-res for skin\Alpine_A_A4_35.5W-x-94.5H.jpg
+
+newmtl Main_Waill___Front
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka T:\3D FILES\Products\Alpine\A\low-res for skin\Alpine_A_A3_Front_Panel.jpg
+	map_Kd T:\3D FILES\Products\Alpine\A\low-res for skin\Alpine_A_A3_Front_Panel.jpg
+
+newmtl Arch_leg___front_outside
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka T:\3D FILES\Products\Alpine\A\low-res for skin\Alpine_A_A1_Front_Arch_Panel.jpg
+	map_Kd T:\3D FILES\Products\Alpine\A\low-res for skin\Alpine_A_A1_Front_Arch_Panel.jpg
+
+newmtl Main_Wall___back
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka T:\3D FILES\Products\Alpine\A\low-res for skin\Alpine_A_A3_Back_Panel.jpg
+	map_Kd T:\3D FILES\Products\Alpine\A\low-res for skin\Alpine_A_A3_Back_Panel.jpg
+
+newmtl Main_wall___Vertical___Back
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka T:\3D FILES\Products\Alpine\A\low-res for skin\Alpine_A_A1_Back_Panel.jpg
+	map_Kd T:\3D FILES\Products\Alpine\A\low-res for skin\Alpine_A_A1_Back_Panel.jpg
+
+newmtl wire_255169169
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 1.0000 0.6627 0.6627
+	Kd 1.0000 0.6627 0.6627
+	Ks 0.3500 0.3500 0.3500
+
+newmtl wire_000215255
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.0000 0.8431 1.0000
+	Kd 0.0000 0.8431 1.0000
+	Ks 0.3500 0.3500 0.3500
+
+newmtl Material__133___EXTRUSION
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6078 0.6078 0.6078
+	Kd 0.6078 0.6078 0.6078
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl rp_alison_rigged_001_mat
+	Ns 5.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0630 0.0630 0.0630
+	Ke 0.0000 0.0000 0.0000
+	map_Ka rp_alison_rigged_001_finalComposite_Composite.tga
+	map_Kd rp_alison_rigged_001_finalComposite_Composite.tga
